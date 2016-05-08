@@ -1,4 +1,3 @@
-# AnimatedConnectFour
-Simple Java based Connect Four Game
+# Connect Four
 
-Not the most beautiful connect four game by any means, but it does the job. 
+Simple Java based Connect Four Game
